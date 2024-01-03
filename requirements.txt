@@ -2,6 +2,5 @@ streamlit
 openai
 langchain
 Pillow
-SQLAlchemy==1.4
-rembg<2.0.53
-io
+SQLAlchemy
+rembg
